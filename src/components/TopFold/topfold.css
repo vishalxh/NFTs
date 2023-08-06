@@ -1,0 +1,78 @@
+.topfold{
+    height: 92vh;
+    overflow: hidden;
+}
+.tf-left{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 48px;
+}
+.tf-heading{
+    font-size: 72px;
+    font-weight: 600;
+    line-height: 72px;
+}
+.tf-description{
+    font-size: 20px;
+    margin: 24px 0px;
+}
+.tf-left-btns{
+    margin-top: 36px;
+    display: flex;
+}
+.tf-left-secondary-btn{
+    margin-left: 36px;
+}
+.tf-left-infoStats{
+    display: flex;
+    padding: 48px 0px 0px;
+}
+.tf-is-infoItem{
+    margin-right: 24px;
+    flex-direction: column;
+}
+.tf-infoItem-count{
+    font-size: 36px;
+    font-weight: 600;
+}
+.tf-infoItem-label{
+    font-size: 14px;
+    font-weight: 600;
+}
+.tf-right{
+    display: flex;
+    flex:1;
+    position: relative;
+    transform: rotate(45deg);
+}
+.tf-right-diamond{
+    display: flex;
+    flex-direction: column-reverse;
+    
+}
+.tf-r-diamond-item{
+    height: 240px;
+    width: 220px;
+    overflow: hidden;
+    margin: 0px;
+    transform: rotate(-45deg);
+    border: 3px solid #725ff2;
+    border-radius: 10px;
+}
+.tf-r-diamond-item img{
+    height: 280px;
+    object-fit: contain;
+    display: block;
+}
+.tf-r-bg-blob{
+    height: 550px;
+    width: 550px;
+    background-color: var(--bg-blob);
+    filter: blur(161px);
+    position: absolute;
+    z-index: -23;
+    left: 20%;
+    top: 10%;
+    transform: translate(-50%);
+}
