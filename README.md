@@ -1,4 +1,4 @@
-<img width="1440" alt="Screenshot 2024-04-05 at 6 52 15 PM" src="https://github.com/vishalxh/NFTs/assets/140748714/50890214-7774-4509-b513-4befb42dcd25">
+<img width="1440" alt="Screenshot 2024-04-05 at 6 51 48 PM" src="https://github.com/vishalxh/NFTs/assets/140748714/b65a2575-c518-4c2a-b81b-0e9810a2e0cc">
 <img width="1440" alt="Screenshot 2024-04-05 at 6 52 04 PM" src="https://github.com/vishalxh/NFTs/assets/140748714/ebff9603-da08-4440-ac50-bdcfc6e3afd6">
 <img width="1440" alt="Screenshot 2024-04-05 at 6 52 15 PM" src="https://github.com/vishalxh/NFTs/assets/140748714/7be15065-8ade-4571-9e0d-46eb65687561">
 
